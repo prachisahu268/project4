@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Nov/2023:01:39:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:39:16 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 651
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:39:16 +0530] "GET /ORS_Project4/img/customLogo.jpg HTTP/1.1" 200 18195
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:39:16 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 200 19649
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:39:53 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:39:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:40:54 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:41:46 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:41:46 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:41:46 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:42:52 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Nov/2023:01:43:24 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 -
